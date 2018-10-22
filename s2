@@ -1,2 +1,5 @@
-new ip ..
-vmaln : 1235
+Vlan:
+port: [1]
+port: [1204]
+mem: 1202
+ip_addr: 10.0.11.11
