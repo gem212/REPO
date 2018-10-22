@@ -1,3 +1,7 @@
 red : loog 
 vlan: 123
+<<<<<<< HEAD
 new line added
+=======
+readd the SDN after checkout .
+>>>>>>> SDN
