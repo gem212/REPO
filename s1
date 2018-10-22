@@ -1,7 +1,12 @@
 red : loog 
 vlan: 123
 <<<<<<< HEAD
+<<<<<<< HEAD
 new line added
 =======
 readd the SDN after checkout .
 >>>>>>> SDN
+=======
+adding AUTH branch
+
+>>>>>>> AUTH
