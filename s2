@@ -3,4 +3,6 @@ port:[1]
 port:[1024]
 mem:2201
 ip_addr = 10.0.dev.1
+ip_addr = 10.0.m.1.sit
+
 
