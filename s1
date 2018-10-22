@@ -1,12 +1,4 @@
-red : loog 
-vlan: 123
-<<<<<<< HEAD
-<<<<<<< HEAD
-new line added
-=======
-readd the SDN after checkout .
->>>>>>> SDN
-=======
-adding AUTH branch
-
->>>>>>> AUTH
+vlan : 
+port [1]
+port [2]
+dev_ip = 10.0.0.2
