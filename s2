@@ -1,2 +1,3 @@
-new ip ..
-vmaln : 1235
+Vlan:
+port:[1]
+ip_addr = 10.0.0.1
