@@ -1,6 +1,11 @@
+new ip ..
+vmaln : 1235
+New line from Stage 
 Vlan:
 port:[1]
 port:[1024]
 mem:2201
 ip_addr = 10.0.0.1
-
+new line from master
+newline from stage
+newline from stage
