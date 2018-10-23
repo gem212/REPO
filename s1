@@ -1,8 +1,0 @@
-
-vlan:
-port [3]
-port [4]
-port [1]
-port [2]
-dev_ip = 10.3.4.5
-
